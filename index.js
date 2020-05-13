@@ -24,9 +24,9 @@ function decrement(number) {
 }
 
 function makeInt(x,base){
-  const parseInt('15', 10)
+ parseInt('15', 10)
 }
-console.log(makeInt)
+console.log(parseInt)
 
 function preserveDecimal(string){
   parseFloat('2.74848')

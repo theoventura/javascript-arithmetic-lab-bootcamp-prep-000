@@ -29,7 +29,7 @@ function makeInt(x, base) {
   return parsed * 100;
 }
 
-console.log(makeInt('4', 10));
+console.log(makeInt('0xf', 16));
 
 function preserveDecimal(string){
   parseFloat('2.74848')

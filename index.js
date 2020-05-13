@@ -23,5 +23,6 @@ function decrement(number) {
   return number-=1
 }
 
-
-parseFloat('2')
+function preserveDecimal(string){
+parseFloat('2.74848')
+}

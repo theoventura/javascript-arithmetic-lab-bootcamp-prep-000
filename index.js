@@ -23,10 +23,10 @@ function decrement(number) {
   return number-=1
 }
 
-function makeInt(number){
+function makeInt(x,base){
   parseInt('2', 10)
 }
 
-function preserveDecimal(number){
+function preserveDecimal(string){
   parseFloat('2.74848')
 }

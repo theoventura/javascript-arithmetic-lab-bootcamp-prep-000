@@ -24,7 +24,7 @@ function decrement(number) {
 }
 
 function makeInt(x,base){
-  parseInt('4', 10)
+  parseInt('015', 10)
 }
 
 function preserveDecimal(string){

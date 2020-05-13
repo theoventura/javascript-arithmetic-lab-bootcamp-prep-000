@@ -24,5 +24,5 @@ function decrement(number) {
 }
 
 function makeInt(x, base){
-  parseInt('2',10)
+  parseFloat('2')
 }

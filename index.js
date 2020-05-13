@@ -23,14 +23,10 @@ function decrement(number) {
   return number-=1
 }
 
-function makeInt(x, base) {
-  const parsed = parseInt(x, base);
-  if (isNaN(parsed)) { return 0; }
-  return parsed * 100;
+function makeInt(string) {
+  return parseInt(string,10)
 }
 
-console.log(makeInt('0xf', 16));
-
 function preserveDecimal(string){
-  parseFloat('2.74848')
+  return parseFloat(string)
 }

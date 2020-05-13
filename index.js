@@ -24,4 +24,4 @@ function decrement(number) {
 }
 
 
-  parseFloat('2')
+parseFloat('2')

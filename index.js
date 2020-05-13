@@ -23,6 +23,5 @@ function decrement(number) {
   return number-=1
 }
 
-function makeInt(x, base){
+
   parseFloat('2')
-}
